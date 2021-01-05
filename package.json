@@ -40,7 +40,7 @@
     "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "es6-promise": "^4.2.8",
     "page": "^1.11.5",
     "showdown": "^1.9.1"
